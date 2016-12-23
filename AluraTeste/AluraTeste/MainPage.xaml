@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AluraTeste.MainPage">
+  <ContentPage.Content>
+    <StackLayout Padding="25">
+      <Label Text="Alura Nutrição" FontSize="24"></Label>
+
+      <Label Text="Descrição"></Label>
+
+      <Entry />
+    
+      <Stepper Minimum="10" Maximum="1000"></Stepper>
+      
+      <Button Text="Salvar"></Button>
+  
+    </StackLayout>
+  </ContentPage.Content>
+</ContentPage>

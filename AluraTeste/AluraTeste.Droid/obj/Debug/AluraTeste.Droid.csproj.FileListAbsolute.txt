@@ -1,0 +1,147 @@
+c:\Users\Marcelo\Documents\Visual Studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\AluraTeste.Droid.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\AluraTeste.Droid.dll
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\AluraTeste.Droid.pdb
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\AluraTeste.Droid.apk
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\AluraTeste.Droid-Signed.apk
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\AluraTeste.dll
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\AluraTeste.pdb
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\FormsViewGroup.pdb
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\AluraTeste.Droid.dll
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\AluraTeste.Droid.pdb
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\bin\AluraTeste.Droid.apk
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\res\layout\tabbar.xml
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\res\layout\toolbar.xml
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\res\values\styles.xml
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\R.cs.flag
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\uploadflags.txt
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\AluraTeste.Droid.dll.mdb
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\AluraTeste.dll.mdb
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\mscorlib.dll.mdb
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\System.Core.dll.mdb
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\System.dll.mdb
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\System.Xml.dll.mdb
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\AluraTeste.dll.mdb
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\AluraTeste.Droid.dll.mdb
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\AluraTeste.Droid.dll.mdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\AluraTeste.Droid.dll
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\AluraTeste.Droid.pdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\AluraTeste.Droid.apk
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\AluraTeste.Droid-Signed.apk
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\AluraTeste.dll
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\FormsViewGroup.dll
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\AluraTeste.pdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\AluraTeste.dll.mdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\FormsViewGroup.pdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\AluraTeste.Droid.csprojResolveAssemblyReference.cache
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\AluraTeste.Droid.dll
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\AluraTeste.Droid.pdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\bin\AluraTeste.Droid.apk
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\res\drawable\icon.png
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\res\layout\tabbar.xml
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\res\layout\toolbar.xml
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\res\values\styles.xml
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\R.cs.flag
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\uploadflags.txt
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\AluraTeste.Droid.dll.mdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Java.Interop.dll.mdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\Mono.Android.dll.mdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\mscorlib.dll.mdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\System.Core.dll.mdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\System.dll.mdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\System.Net.Http.dll.mdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\System.Xml.dll.mdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\AluraTeste.dll.mdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\AluraTeste.Droid.dll.mdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\System.dll.mdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\AluraTeste.Droid.dll.mdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste.Droid\bin\Debug\AluraTeste.Droid.dll.mdb
