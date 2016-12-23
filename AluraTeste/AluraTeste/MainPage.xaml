@@ -10,7 +10,7 @@
 
       <Entry />
     
-      <Stepper Minimum="10" Maximum="1000git "></Stepper>
+      <Stepper Minimum="10" Maximum="1000 "></Stepper>
       
       <Button Text="Salvar"></Button>
   
