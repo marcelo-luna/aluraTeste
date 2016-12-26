@@ -16,9 +16,7 @@
         <Label x:Name="lblCalorias"></Label>
       </StackLayout>
 
-      <!--<Stepper x:Name="stpContadorCalorias" Increment="25"  Minimum="10" Maximum="1000" ValueChanged="Atualiza"></Stepper>-->
-
-      <Slider x:Name="slrCalorias" Minimum="0" Maximum="1000" ValueChanged="Atualiza"></Slider>
+      <Slider x:Name="slrCalorias" Maximum="1000" ValueChanged="Atualiza"></Slider>
 
       <Button Text="Salvar" Clicked="SalvarRefeicao"></Button>
 
