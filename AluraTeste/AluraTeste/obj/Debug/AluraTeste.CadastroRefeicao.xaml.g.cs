@@ -14,7 +14,7 @@ namespace AluraTeste {
     using Xamarin.Forms.Xaml;
     
     
-    public partial class MainPage : global::Xamarin.Forms.ContentPage {
+    public partial class CadastroRefeicao : global::Xamarin.Forms.ContentPage {
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private global::Xamarin.Forms.Entry entDescricao;
@@ -27,7 +27,7 @@ namespace AluraTeste {
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
-            this.LoadFromXaml(typeof(MainPage));
+            this.LoadFromXaml(typeof(CadastroRefeicao));
             entDescricao = this.FindByName<global::Xamarin.Forms.Entry>("entDescricao");
             lblCalorias = this.FindByName<global::Xamarin.Forms.Label>("lblCalorias");
             slrCalorias = this.FindByName<global::Xamarin.Forms.Slider>("slrCalorias");

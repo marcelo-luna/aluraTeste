@@ -13,22 +13,6 @@ c:\Users\Marcelo\Documents\Visual Studio 2015\Projects\AluraTeste\AluraTeste\Alu
 c:\Users\Marcelo\Documents\Visual Studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste\obj\Debug\AluraTeste.pdb
 C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste\obj\Debug\AluraTeste.dll.mdb
 C:\Users\Marcelo\documents\visual studio 2015\Projects\AluraTeste\AluraTeste\AluraTeste\bin\Debug\AluraTeste.dll.mdb
-C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste\bin\Debug\AluraTeste.dll
-C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste\bin\Debug\AluraTeste.pdb
-C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste\bin\Debug\Xamarin.Forms.Core.dll
-C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste\bin\Debug\Xamarin.Forms.Platform.dll
-C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste\bin\Debug\Xamarin.Forms.Xaml.dll
-C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste\bin\Debug\Xamarin.Forms.Core.pdb
-C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste\bin\Debug\Xamarin.Forms.Core.xml
-C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste\bin\Debug\Xamarin.Forms.Platform.pdb
-C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste\bin\Debug\Xamarin.Forms.Xaml.pdb
-C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste\bin\Debug\Xamarin.Forms.Xaml.xml
-C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste\obj\Debug\AluraTeste.csprojResolveAssemblyReference.cache
-C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste\obj\Debug\AluraTeste.MainPage.xaml.g.cs
-C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste\obj\Debug\AluraTeste.dll
-C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste\obj\Debug\AluraTeste.pdb
-C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste\obj\Debug\AluraTeste.dll.mdb
-C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste\bin\Debug\AluraTeste.dll.mdb
 C:\projects\aluraTeste\AluraTeste\AluraTeste\bin\Debug\AluraTeste.dll
 C:\projects\aluraTeste\AluraTeste\AluraTeste\bin\Debug\AluraTeste.pdb
 C:\projects\aluraTeste\AluraTeste\AluraTeste\bin\Debug\Xamarin.Forms.Core.dll
@@ -44,3 +28,22 @@ C:\projects\aluraTeste\AluraTeste\AluraTeste\obj\Debug\AluraTeste.dll
 C:\projects\aluraTeste\AluraTeste\AluraTeste\obj\Debug\AluraTeste.pdb
 C:\projects\aluraTeste\AluraTeste\AluraTeste\obj\Debug\AluraTeste.dll.mdb
 C:\projects\aluraTeste\AluraTeste\AluraTeste\bin\Debug\AluraTeste.dll.mdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste\bin\Debug\AluraTeste.dll
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste\bin\Debug\AluraTeste.pdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste\bin\Debug\Xamarin.Forms.Core.dll
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste\bin\Debug\Xamarin.Forms.Platform.dll
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste\bin\Debug\Xamarin.Forms.Core.pdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste\bin\Debug\Xamarin.Forms.Core.xml
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste\obj\Debug\AluraTeste.csprojResolveAssemblyReference.cache
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste\obj\Debug\AluraTeste.CadastroRefeicao.xaml.g.cs
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste\obj\Debug\AluraTeste.ListaRefeicoes.xaml.g.cs
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste\obj\Debug\AluraTeste.dll
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste\obj\Debug\AluraTeste.pdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste\obj\Debug\AluraTeste.dll.mdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste\bin\Debug\AluraTeste.dll.mdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste\obj\Debug\AluraTeste.dll.mdb
+C:\marceloProjects\AluraTeste\AluraTeste\AluraTeste\bin\Debug\AluraTeste.dll.mdb

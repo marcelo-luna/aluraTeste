@@ -8,9 +8,9 @@ using Xamarin.Forms;
 
 namespace AluraTeste
 {
-    public partial class MainPage : ContentPage
+    public partial class CadastroRefeicao : ContentPage
     {
-        public MainPage()
+        public CadastroRefeicao()
         {
             InitializeComponent();
         }
@@ -37,6 +37,12 @@ namespace AluraTeste
         {
             entDescricao.Text = "";
             lblCalorias.Text = "10";
+        }
+
+        public void MostraLista(Object sender, EventArgs e)
+        {
+            ListaRefeicoes tela = new ListaRefeicoes();
+            Navigation.PushAsync(tela);
         }
     }
 }
