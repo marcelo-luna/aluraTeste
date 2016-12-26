@@ -8,12 +8,20 @@
 
       <Label Text="Descrição"></Label>
 
-      <Entry />
-    
-      <Stepper Minimum="10" Maximum="1000 "></Stepper>
-      
-      <Button Text="Salvar"></Button>
-  
+      <Entry x:Name="entDescricao" Placeholder="ex: File de frango"/>
+
+      <StackLayout Orientation="Horizontal">
+        <Label Text="Calorias: "></Label>
+
+        <Label x:Name="lblCalorias"></Label>
+      </StackLayout>
+
+      <!--<Stepper x:Name="stpContadorCalorias" Increment="25"  Minimum="10" Maximum="1000" ValueChanged="Atualiza"></Stepper>-->
+
+      <Slider x:Name="slrCalorias" Minimum="0" Maximum="1000" ValueChanged="Atualiza"></Slider>
+
+      <Button Text="Salvar" Clicked="SalvarRefeicao"></Button>
+
     </StackLayout>
   </ContentPage.Content>
 </ContentPage>

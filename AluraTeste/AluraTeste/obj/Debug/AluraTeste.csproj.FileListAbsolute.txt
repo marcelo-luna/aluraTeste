@@ -39,7 +39,6 @@ C:\projects\aluraTeste\AluraTeste\AluraTeste\bin\Debug\Xamarin.Forms.Core.xml
 C:\projects\aluraTeste\AluraTeste\AluraTeste\bin\Debug\Xamarin.Forms.Platform.pdb
 C:\projects\aluraTeste\AluraTeste\AluraTeste\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\projects\aluraTeste\AluraTeste\AluraTeste\bin\Debug\Xamarin.Forms.Xaml.xml
-C:\projects\aluraTeste\AluraTeste\AluraTeste\obj\Debug\AluraTeste.csprojResolveAssemblyReference.cache
 C:\projects\aluraTeste\AluraTeste\AluraTeste\obj\Debug\AluraTeste.MainPage.xaml.g.cs
 C:\projects\aluraTeste\AluraTeste\AluraTeste\obj\Debug\AluraTeste.dll
 C:\projects\aluraTeste\AluraTeste\AluraTeste\obj\Debug\AluraTeste.pdb

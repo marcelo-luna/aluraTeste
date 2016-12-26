@@ -17,8 +17,20 @@ namespace AluraTeste {
     public partial class MainPage : global::Xamarin.Forms.ContentPage {
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Entry entDescricao;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Label lblCalorias;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Slider slrCalorias;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             this.LoadFromXaml(typeof(MainPage));
+            entDescricao = this.FindByName<global::Xamarin.Forms.Entry>("entDescricao");
+            lblCalorias = this.FindByName<global::Xamarin.Forms.Label>("lblCalorias");
+            slrCalorias = this.FindByName<global::Xamarin.Forms.Slider>("slrCalorias");
         }
     }
 }

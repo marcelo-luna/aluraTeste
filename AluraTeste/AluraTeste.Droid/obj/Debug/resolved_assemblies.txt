@@ -24,9 +24,9 @@ C:\projects\aluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\Syst
 C:\projects\aluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll
 C:\projects\aluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\System.Resources.ResourceManager.dll
 C:\projects\aluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\System.Diagnostics.Tools.dll
+C:\projects\aluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\System.Threading.Tasks.dll
 C:\projects\aluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\System.Collections.dll
 C:\projects\aluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\System.Diagnostics.Debug.dll
-C:\projects\aluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\System.Threading.Tasks.dll
 C:\projects\aluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\System.ObjectModel.dll
 C:\projects\aluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\System.Globalization.dll
 C:\projects\aluraTeste\AluraTeste\AluraTeste.Droid\obj\Debug\android\assets\System.ComponentModel.dll
