@@ -12,7 +12,7 @@ namespace AluraTeste
         public App()
         {
             // The root page of your application
-            MainPage = new MainPage();
+            MainPage = new HometabbedPage();
         }
 
         protected override void OnStart()

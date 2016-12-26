@@ -36,8 +36,12 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="App.cs" />
-    <Compile Include="MainPage.xaml.cs">
-      <DependentUpon>MainPage.xaml</DependentUpon>
+    <Compile Include="HometabbedPage.cs" />
+    <Compile Include="ListaRefeicoes.xaml.cs">
+      <DependentUpon>ListaRefeicoes.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CadastroRefeicao.xaml.cs">
+      <DependentUpon>CadastroRefeicao.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -60,7 +64,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="MainPage.xaml">
+    <EmbeddedResource Include="CadastroRefeicao.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ListaRefeicoes.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
       <SubType>Designer</SubType>
     </EmbeddedResource>
