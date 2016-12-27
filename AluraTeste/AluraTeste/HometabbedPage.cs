@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Reflection.Emit;
-using System.Text;
+﻿using System.Collections.ObjectModel;
 
 using Xamarin.Forms;
 
@@ -12,8 +8,10 @@ namespace AluraTeste
     {
         public HometabbedPage()
         {
-            this.Children.Add(new CadastroRefeicao());
-            this.Children.Add(new ListaRefeicoes());
+            ObservableCollection<Refeicao> refeicoes = new ObservableCollection<Refeicao>();
+
+            this.Children.Add(new CadastroRefeicao(refeicoes));
+            this.Children.Add(new ListaRefeicoes(refeicoes));
         }
     }
 }

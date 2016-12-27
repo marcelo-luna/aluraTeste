@@ -20,8 +20,6 @@
 
       <Button Text="Salvar" Clicked="SalvarRefeicao"></Button>
       
-      <Button Text="Refeições" Clicked="MostraLista"></Button>
-
     </StackLayout>
   </ContentPage.Content>
 </ContentPage>

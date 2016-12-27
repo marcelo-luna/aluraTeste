@@ -5,6 +5,22 @@
   <ContentPage.Content>
     <StackLayout Padding="25">
       <Label Text="Refeições Cadastradas" FontSize="24"></Label>
+
+      <ListView ItemsSource="{Binding Refeicoes}" ItemTapped="AcaoItem">
+        <ListView.ItemTemplate>
+          <DataTemplate>
+            <ViewCell>
+              <StackLayout>
+                <Label Text="{Binding Descricao}" FontSize="12"></Label>
+                <StackLayout Orientation="Horizontal">
+                  <Label Text="Calorias: " FontSize="10"></Label>
+                  <Label Text="{Binding Calorias}" FontSize="10"></Label>
+                </StackLayout>
+              </StackLayout>
+            </ViewCell>
+          </DataTemplate>
+        </ListView.ItemTemplate>
+      </ListView>
     </StackLayout>
   </ContentPage.Content>
 </ContentPage>
