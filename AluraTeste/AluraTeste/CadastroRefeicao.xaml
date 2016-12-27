@@ -4,9 +4,8 @@
              x:Class="AluraTeste.CadastroRefeicao" Title="Cadastro Refeição">
   <ContentPage.Content>
     <StackLayout Padding="25">
-      <Label Text="Alura Nutrição"></Label>
 
-      <Label Text="Descrição"></Label>
+      <Label Text="Descrição Refeição"></Label>
 
       <Entry x:Name="entDescricao" Placeholder="ex: File de frango"/>
 

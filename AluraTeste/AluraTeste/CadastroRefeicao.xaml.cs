@@ -20,7 +20,7 @@ namespace AluraTeste
             lblCalorias.Text = stpValue.ToString();
         }
 
-        public void SalvarRefeicao(Object sender, EventArgs e)
+        public async void SalvarRefeicao(Object sender, EventArgs e)
         {
             string sDescricao = entDescricao.Text;
             double sValor = slrCalorias.Value;
@@ -28,14 +28,15 @@ namespace AluraTeste
             Refeicao refe = new Refeicao(sDescricao, sValor);
             Refeicoes.Add(refe);
 
-            DisplayAlert("Salvar Refeição", $"A refeição {sDescricao} de {sValor} calorias foi salva com sucesso!","Ok");
+            await DisplayAlert("Salvar Refeição", $"A refeição {sDescricao} de {sValor} calorias foi salva com sucesso!","Ok");
             Clear();
         }
 
         public void Clear()
         {
             entDescricao.Text = "";
-            lblCalorias.Text = "10";
+            lblCalorias.Text = "0";
+            slrCalorias.Value = 0;
         }
     }
 }
