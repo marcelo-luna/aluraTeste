@@ -1,6 +1,7 @@
 ﻿using System.Collections.ObjectModel;
-
+using SQLite;
 using Xamarin.Forms;
+using AluraTeste.Data;
 
 namespace AluraTeste
 {
@@ -10,8 +11,14 @@ namespace AluraTeste
         {
             ObservableCollection<Refeicao> refeicoes = new ObservableCollection<Refeicao>();
 
-            this.Children.Add(new CadastroRefeicao(refeicoes));
-            this.Children.Add(new ListaRefeicoes(refeicoes));
+            SQLiteConnection con = DependencyService.Get<ISqlite>().GetConnection();
+            RefeicaoDAO dao = new RefeicaoDAO(con);
+
+            CadastroRefeicao telaCadastro = new CadastroRefeicao(refeicoes, dao);
+            ListaRefeicoes telaLista = new ListaRefeicoes(refeicoes);
+
+            this.Children.Add(telaCadastro);
+            this.Children.Add(telaLista);
         }
     }
 }
