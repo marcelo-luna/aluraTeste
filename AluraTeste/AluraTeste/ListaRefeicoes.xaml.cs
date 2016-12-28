@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.ObjectModel;
-
+using AluraTeste.Data;
 using Xamarin.Forms;
 
 namespace AluraTeste
@@ -8,23 +8,35 @@ namespace AluraTeste
     public partial class ListaRefeicoes : ContentPage
     {
         public ObservableCollection<Refeicao> Refeicoes { get; set; }
-        public ListaRefeicoes(ObservableCollection<Refeicao> refeicoes)
+        private RefeicaoDAO dao;
+
+        public ListaRefeicoes(RefeicaoDAO dao)
         {
-            Refeicoes = refeicoes;
+            Refeicoes = dao.Lista;
+            this.dao = dao;
             BindingContext = this;
             InitializeComponent();
         }
 
         public async void AcaoItem(Object sender, ItemTappedEventArgs e)
         {
-            Refeicao refeicao = e.Item as Refeicao;
+            try
+            {
+                Refeicao refeicao = e.Item as Refeicao;
             var displarAnswer = await DisplayAlert("Remover Item", $"Deseja remover  {refeicao.Descricao} ?","Sim","Não");
 
             if (displarAnswer)
             {
-                Refeicoes.Remove(refeicao);
+                dao.Remove(refeicao);
                 await DisplayAlert("Remover Item","Refeição Removida", "OK");
             }
+            }
+            catch (Exception)
+            {
+
+                await DisplayAlert("Erro", "Ocorreu um erro", "OK");
+            }
+            
         }
     }
 }

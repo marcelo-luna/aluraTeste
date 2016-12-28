@@ -7,13 +7,10 @@ namespace AluraTeste
 {
     public partial class CadastroRefeicao : ContentPage
     {
-        public ObservableCollection<Refeicao> Refeicoes { get; set; }
-
         private RefeicaoDAO dao;
 
-        public CadastroRefeicao(ObservableCollection<Refeicao> refeicoes, RefeicaoDAO dao)
+        public CadastroRefeicao(RefeicaoDAO dao)
         {
-            Refeicoes = refeicoes;
             this.dao = dao;
             InitializeComponent();
         }
@@ -30,7 +27,6 @@ namespace AluraTeste
             double sValor = slrCalorias.Value;
 
             Refeicao refe = new Refeicao(sDescricao, sValor);
-            Refeicoes.Add(refe);
             dao.salvar(refe);
 
             await DisplayAlert("Salvar Refeição", $"A refeição {sDescricao} de {sValor} calorias foi salva com sucesso!","Ok");
