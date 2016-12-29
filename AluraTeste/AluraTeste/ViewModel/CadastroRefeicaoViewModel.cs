@@ -53,6 +53,8 @@ namespace AluraTeste.ViewModel
                 Refeicao refeicao = new Refeicao(descricao, calorias);
                 dao.salvar(refeicao);
                 page.DisplayAlert("Salvar Refeição",$"A refeição {descricao} de {calorias} calorias foi salva com sucesso!", "Ok");
+                Descricao = string.Empty;
+                Calorias = 0;
             });
         }
 
