@@ -36,15 +36,16 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="App.cs" />
-    <Compile Include="HometabbedPage.cs" />
-    <Compile Include="ListaRefeicoes.xaml.cs">
+    <Compile Include="ViewModel\CadastroRefeicaoViewModel.cs" />
+    <Compile Include="View\HometabbedPage.cs" />
+    <Compile Include="View\ListaRefeicoes.xaml.cs">
       <DependentUpon>ListaRefeicoes.xaml</DependentUpon>
     </Compile>
-    <Compile Include="CadastroRefeicao.xaml.cs">
+    <Compile Include="View\CadastroRefeicao.xaml.cs">
       <DependentUpon>CadastroRefeicao.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Refeicao.cs" />
+    <Compile Include="Model\Refeicao.cs" />
     <Compile Include="Data\ISqlite.cs" />
     <Compile Include="Data\RefeicaoDAO.cs" />
   </ItemGroup>
@@ -83,13 +84,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="CadastroRefeicao.xaml">
+    <EmbeddedResource Include="View\CadastroRefeicao.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
       <SubType>Designer</SubType>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="ListaRefeicoes.xaml">
+    <EmbeddedResource Include="View\ListaRefeicoes.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
       <SubType>Designer</SubType>
     </EmbeddedResource>

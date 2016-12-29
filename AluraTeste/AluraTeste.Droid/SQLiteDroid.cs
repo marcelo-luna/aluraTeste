@@ -1,6 +1,4 @@
-using System;
 using SQLite;
-using System.IO;
 using AluraTeste.Data;
 using Xamarin.Forms;
 using AluraTeste.Droid;
@@ -16,8 +14,6 @@ namespace AluraTeste.Droid
 
         public SQLiteConnection GetConnection()
         {
-            var fileName = "Refeicoes.db3";
-
             string applicationFolderPath = System.IO.Path.Combine(System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal), "Refeicao.db");
             // Create the folder path.
             System.IO.Directory.CreateDirectory(applicationFolderPath);

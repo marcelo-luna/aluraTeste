@@ -7,17 +7,17 @@
 
       <Label Text="Descrição Refeição"></Label>
 
-      <Entry x:Name="entDescricao" Placeholder="ex: File de frango"/>
+      <Entry x:Name="entDescricao" Placeholder="ex: File de frango" Text="{Binding Descricao}"/>
 
       <StackLayout Orientation="Horizontal">
         <Label Text="Calorias: "></Label>
 
-        <Label x:Name="lblCalorias"></Label>
+        <Label x:Name="lblCalorias" Text="{Binding Calorias, Mode=TwoWay}"></Label>
       </StackLayout>
 
-      <Slider x:Name="slrCalorias" Maximum="1000" ValueChanged="Atualiza"></Slider>
+      <Slider x:Name="slrCalorias" Maximum="1000" Value="{Binding Calorias, Mode=TwoWay}"></Slider>
 
-      <Button Text="Salvar" Clicked="SalvarRefeicao"></Button>
+      <Button Text="Salvar" Command="{Binding SalvaRefeicao}"></Button>
       
     </StackLayout>
   </ContentPage.Content>

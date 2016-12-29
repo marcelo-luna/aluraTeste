@@ -1,5 +1,4 @@
-﻿using System.Collections.ObjectModel;
-using SQLite;
+﻿using SQLite;
 using Xamarin.Forms;
 using AluraTeste.Data;
 
